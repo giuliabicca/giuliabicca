@@ -18,6 +18,7 @@ Atuei em projetos internacionais voltados ao treinamento de programas de intelig
 Sou apaixonada por inovação em IA que seja ética e centrada no ser humano, e acredito no potencial da tecnologia para promover trocas de conhecimento inclusivas e alinhadas a projetos de impacto.
 
 <h2>Conecte-se comigo</h2>
-[LinkedIn](www.linkedin.com/in/giulia-lermen)
+<a href="www.linkedin.com/in/giulia-lermen">LinkedIn
+<a href="
 
 
