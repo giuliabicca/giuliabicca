@@ -1,8 +1,8 @@
-🎓 Sobre mim
+<h1>Sobre mim</h1>
 
-Profissional multidisciplinar, mestre em Antropologia Social e atualmente cursando Análise e Desenvolvimento de Sistemas na UNINTER.
+🎓 Profissional multidisciplinar, mestre em Antropologia Social e atualmente cursando Análise e Desenvolvimento de Sistemas na UNINTER.
 
-👩‍💻 Tenho estudado desenvolvimento web e praticado com HTML, CSS, JavaScript e React, criando pequenos projetos e experimentando aplicações que combinam tecnologia e ciências sociais. Busco aprender cada vez mais e ganhar experiência prática em projetos reais.
+Tenho estudado desenvolvimento web e praticado com HTML, CSS, JavaScript e React, criando pequenos projetos e experimentando aplicações que combinam tecnologia e ciências sociais. Busco aprender cada vez mais e ganhar experiência prática em projetos reais.
 
 Atualmente, faço parte da equipe de desenvolvimento de um site institucional em uma ONG e continuo em busca de oportunidades para ampliar meus conhecimentos e aprimorar minhas habilidades técnicas.
 
